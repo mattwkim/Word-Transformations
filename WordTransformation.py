@@ -1,6 +1,6 @@
 """
 Matt Kim
-Rally Health Coding Challenge
+Word Transformations Coding Challenge
 """
 
 import sys, Levenshtein
